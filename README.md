@@ -1,2 +1,2 @@
 # presskit
-Contains material inteded for public distribution and dissemination
+Contains material intended for public distribution and dissemination
